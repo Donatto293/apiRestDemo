@@ -1,0 +1,26 @@
+body{
+  background-color: #090808;
+  color: white;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background: #f0f0f0;
+}
+
+.profile-pic {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.auth-buttons .btn {
+  margin-left: 10px;
+  padding: 8px 16px;
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
